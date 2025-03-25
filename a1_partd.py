@@ -1,5 +1,5 @@
-#    Main Author(s): Rostyslav Muretov
-#    Main Reviewer(s): Matthew MacLennan
+#    Main Author(s): 
+#    Main Reviewer(s):
 
 from a1_partc import Queue
 
